@@ -2121,11 +2121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\UT School\\Ujikom\\APIdotnet\\Stackup.Api\\Stackup.Api.csproj",
+      "projectUniqueName": "E:\\UT School\\Ujikom\\APIdotnet\\Stackup.Api\\Stackup.Api.csproj",
       "projectName": "Stackup.Api",
-      "projectPath": "e:\\UT School\\Ujikom\\APIdotnet\\Stackup.Api\\Stackup.Api.csproj",
+      "projectPath": "E:\\UT School\\Ujikom\\APIdotnet\\Stackup.Api\\Stackup.Api.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "e:\\UT School\\Ujikom\\APIdotnet\\Stackup.Api\\obj\\",
+      "outputPath": "E:\\UT School\\Ujikom\\APIdotnet\\Stackup.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2179,7 +2179,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
       }
     }
   }
